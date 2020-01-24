@@ -36,3 +36,13 @@ The repository root contains reference guides and resources.
 ## About JDSB
 
 Learn about the organization's mission [on our website](https://juniordevstrugglebus.com/).
+
+## Acknowledgements
+
+All source code & PDF slide decks in this repository are created for the 
+public's benefit. Please see [the license file](./LICENSE) for more information 
+about content distribution.
+
+The [problem-solving strategy guide](./problem_solving_steps.pdf) included 
+in this repository was written by [Gayle Laakmann McDowell](http://www.gayle.com/) 
+and the work is copyrighted to [CareerCup](https://careercup.com/).
